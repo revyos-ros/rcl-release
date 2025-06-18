@@ -1,3 +1,30 @@
+## rcl (jazzy) - 9.2.6-1
+
+The packages in the `rcl` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy rcl --override-release-repository-push-url git@github.com:revyos-ros/rcl-release.git` on `Wed, 18 Jun 2025 03:41:05 -0000`
+
+These packages were released:
+- `rcl`
+- `rcl_action`
+- `rcl_lifecycle`
+- `rcl_yaml_param_parser`
+
+Version of package(s) in repository `rcl`:
+
+- upstream repository: https://github.com/ros2/rcl.git
+- release repository: https://github.com/revyos-ros/rcl-release.git
+- rosdistro version: `9.2.6-1`
+- old version: `9.2.4-1`
+- new version: `9.2.6-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rcl (jazzy) - 9.2.4-1
 
 The packages in the `rcl` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy rcl --override-release-repository-push-url git@github.com:revyos-ros/rcl-release.git` on `Tue, 24 Sep 2024 05:58:03 -0000`
